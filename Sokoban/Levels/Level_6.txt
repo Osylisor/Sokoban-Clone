@@ -1,0 +1,9 @@
+BBBBBBBBBBBB
+B--P----XBBB
+B---X-----BB
+B---------BB
+BBBB-BBBBBBB
+B----------B
+BBBBCB--C--B
+B-------BBBB
+BBBBBBBBBBBB
